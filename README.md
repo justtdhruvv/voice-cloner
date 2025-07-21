@@ -7,7 +7,7 @@ A professional-grade voice cloning system that lets you clone any voice with jus
 ## ⚡ Quick Start
 
 ### 🌐 Option 1: Google Colab (Recommended for beginners)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justtdhruvv/voice-cloner/blob/main/voice_cloner-rxc/colab-notebook/XTTS_Voice_Cloner_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justtdhruvv/voice-cloner/blob/main//colab-notebook/XTTS_Voice_Cloner_Colab.ipynb)
 
 **Perfect for:** First-time users, no installation required, free GPU access
 
