@@ -5,15 +5,20 @@ The `batch_cloner.py` script allows you to generate voice clones from the comman
 ## 🚀 Quick Start
 
 ### Basic Usage (Auto-detect files)
+
 ```bash
 python batch_cloner.py
+
 ```
+
 This will automatically:
+
 - Look for audio files in `../examples/` directory
 - Use `../examples/sample_script.md` as the script
 - Save output to `output/cloned_voice.wav`
 
 ### Custom Usage
+
 ```bash
 python batch_cloner.py --reference my_voice.wav --script my_text.txt --output my_output.wav
 ```
@@ -30,16 +35,20 @@ python batch_cloner.py --reference my_voice.wav --script my_text.txt --output my
 ## 💡 Examples
 
 ### Example 1: Use specific files
+
 ```bash
 python batch_cloner.py -r voice_sample.wav -s my_script.txt -o result.wav
+
 ```
 
 ### Example 2: Different language
+
 ```bash
 python batch_cloner.py -r spanish_voice.wav -s spanish_text.txt -l es
 ```
 
 ### Example 3: Auto-detect audio
+
 ```bash
 python batch_cloner.py -s my_custom_script.md
 ```
@@ -47,7 +56,9 @@ python batch_cloner.py -s my_custom_script.md
 ## 📁 File Organization
 
 ### Expected Structure:
+
 ```
+
 gradio-interface/
 ├── batch_cloner.py          # This script
 ├── output/                  # Generated audio files
