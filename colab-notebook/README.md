@@ -5,7 +5,7 @@ Run this powerful voice cloning system directly in Google Colab - no local insta
 ## 🚀 Quick Start
 
 ### Option 1: Direct Colab Link
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo/blob/main/voice_cloner-rxc/colab-notebook/XTTS_Voice_Cloner_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justtdhruvv/voice-cloner/blob/main/colab-notebook/XTTS_Voice_Cloner_Colab.ipynb)
 
 ### Option 2: Manual Setup
 1. Go to [Google Colab](https://colab.research.google.com/)
